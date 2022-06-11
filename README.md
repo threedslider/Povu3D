@@ -1,2 +1,2 @@
 # Yampov
-Yampov is an Opensource 3D modeler for POVRAY writing in Purebasic.
+Povu3D is an Opensource 3D modeler integrated for POVRAY writing in C++.
